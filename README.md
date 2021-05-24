@@ -3,4 +3,4 @@ Provides consistent functionality for audio modules by ensuring only a single se
 # GITHUB
 https://github.com/Randi356/acdb
 # TELEGRAM
-@anonymous_cyberhack1
+https://t.me/anonymous_cyberhack1/
